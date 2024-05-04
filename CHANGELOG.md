@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.2](https://github.com/browser-actions/setup-chrome/compare/setup-chrome-v1.6.1...setup-chrome-v1.6.2) (2024-05-04)
+
+
+### Bug Fixes
+
+* use cached dir on linux ([#540](https://github.com/browser-actions/setup-chrome/issues/540)) ([4e11c0b](https://github.com/browser-actions/setup-chrome/commit/4e11c0b29cc0a878fc608398eb9ba610ceea2d5e))
+
 ## [1.6.1](https://github.com/browser-actions/setup-chrome/compare/setup-chrome-v1.6.0...setup-chrome-v1.6.1) (2024-05-04)
 
 
